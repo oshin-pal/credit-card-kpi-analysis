@@ -63,7 +63,7 @@ The dataset contains transactional and demographic data, including:
 Contributions are welcome!  
 If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## 🙋‍♂️ About
+## 🙋‍♀️ About Me
 
 Hii, I am Oshin! Created with 💙 to demonstrate Finance domain knowledge and statistical data analysis skills with python.
 
