@@ -58,5 +58,14 @@ The dataset contains transactional and demographic data, including:
 4. Designed hypotheses (i.e., H0 and Ha) and tested them using the hypothesis testing techniques mentioned above, rejecting the null hypothesis with 95% confidence. By accepting Ha, we found that the average transaction amount for the test group is greater than that of the control group.
 5. Based on the findings, we can launch the credit card exclusively in the market for the 18–25 age group.
 
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## 🙋‍♂️ About
+
+Hii, I am Oshin! Created with 💙 to demonstrate Finance domain knowledge and statistical data analysis skills with python.
+
 ---
 
